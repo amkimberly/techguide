@@ -1,6 +1,6 @@
 # Cibersegurança
 ## Nivel 1
-- [ ] **Linha de comando - Fundamentos**:
+- [x] **Linha de comando - Fundamentos**:
    - CLI é um programa de linha de comando que aceita entradas de texto para executar funções do sistema operacional.
    - Conhecer os principais comandos
 - [ ] **Python - Fundamentos**:
